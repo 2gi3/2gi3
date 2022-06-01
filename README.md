@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+The most important things for me at work are: communication, flexibility and and teamwork. 
+
+- 🌱 I’m currently learning Jest/TDD
+- 
+- Front-End Skills: HTML, CSS, JaveScript, React.js, SCSS, Bootstrap
+- 
+Back-End-Skills: Node.js, Express.js, Axios, Mongo DB, MySQL
+
+
 <!--
 **2gi3/2gi3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
