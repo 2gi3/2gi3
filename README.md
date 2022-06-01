@@ -2,11 +2,10 @@
 
 The most important things for me at work are: communication, flexibility and and teamwork. 
 
-- 🌱 I’m currently learning Jest/TDD
-- 
 - Front-End Skills: HTML, CSS, JaveScript, React.js, SCSS, Bootstrap
-- 
-Back-End-Skills: Node.js, Express.js, Axios, Mongo DB, MySQL
+- Back-End-Skills: Node.js, Express.js, Axios, Mongo DB, MySQL
+
+- 🌱 I’m currently learning Jest/TDD
 
 
 <!--
