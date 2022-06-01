@@ -1,14 +1,14 @@
 ### Hi there! 👋
 
-I'm Giuseppe, a Full Stack Web Developer based in London. <br />
- always looking for new challenges , constructive feedbacks and better ways to do things! :bulb:
+I'm Giuseppe, a Full Stack Web Developer based in London, <br />
+ always looking for new challenges, constructive feedbacks and better ways to do things! :bulb:
 
- * ##### Front-End Skills: :iphone: :computer:
-    *  HTML, CSS, JaveScript, React.js, SCSS, Bootstrap
+ * ##### Front End Skills: :iphone: :computer:
+    *  HTML, CSS, JaveScript, React.js, SCSS, Bootstrap.
               
               
- * ##### Back-End-Skills: :exploding_head:
-    *  Node.js, Express.js, Axios, Mongo DB, MySQL
+ * ##### Back End Skills: :exploding_head:
+    *  Node.js, Express.js, Axios, Mongo DB, MySQL.
     
 
 * I’m currently learning Jest/TDD :books:
