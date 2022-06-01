@@ -1,11 +1,23 @@
-### Hi there 👋
+### Hi there! 👋
 
-The most important things for me at work are: communication, flexibility and and teamwork. 
+I'm Giuseppe, a Full Stack Web Developer based in London. <br />
+ always looking for new challenges , constructive feedbacks and better ways to do things! :bulb:
 
-- Front-End Skills: HTML, CSS, JaveScript, React.js, SCSS, Bootstrap
-- Back-End-Skills: Node.js, Express.js, Axios, Mongo DB, MySQL
+ * ##### Front-End Skills: :iphone: :computer:
+    *  HTML, CSS, JaveScript, React.js, SCSS, Bootstrap
+              
+              
+ * ##### Back-End-Skills: :exploding_head:
+    *  Node.js, Express.js, Axios, Mongo DB, MySQL
+    
 
-- 🌱 I’m currently learning Jest/TDD
+* I’m currently learning Jest/TDD :books:
+
+* ##### How to reach me:
+    *  [LinkedIn](www.linkedin.com/in/giuseppe-ippolito-g23i)  
+    *  [gippolito@hotmail.co.uk](gippolito@hotmail.co.uk)
+    *  [WhatsApp](https://wa.me/+447795961318)
+  
 
 
 <!--
