@@ -14,9 +14,9 @@ I'm Giuseppe, a Full Stack Web Developer based in London, <br />
 * I’m currently learning Jest/TDD :books:
 
 * ##### How to reach me:
-    *  [LinkedIn](www.linkedin.com/in/giuseppe-ippolito-g23i)  
     *  [gippolito@hotmail.co.uk](gippolito@hotmail.co.uk)
     *  [WhatsApp](https://wa.me/+447795961318)
+    *  www.linkedin.com/in/giuseppe-ippolito-g23i
   
 
 
