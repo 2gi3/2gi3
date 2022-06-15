@@ -3,9 +3,8 @@
 I'm Giuseppe, a Full Stack Web Developer based in London, <br />
  always looking for new challenges, constructive feedbacks and better ways to do things! :bulb:
  
- * ##### Solo Full-Stack project deployed:
-    *  https://piiquante.netlify.app
-    *  MERN-stack, Netlify, Heroku, Cloudinary.
+ * ##### Solo Full-Stack, deployed project: https://piiquante.netlify.app
+    *  MERN-Stack, Netlify, Heroku, Cloudinary.
     *  [Front-End repository](https://github.com/2gi3/p6-front-react)
     *  [Back-End repository](https://github.com/2gi3/p6-back)
 
