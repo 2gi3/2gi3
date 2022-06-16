@@ -7,6 +7,9 @@ I'm Giuseppe, a Full Stack Web Developer based in London, <br />
     *  MERN-Stack, Netlify, Heroku, Cloudinary.
     *  [Front-End repository](https://github.com/2gi3/p6-front-react)
     *  [Back-End repository](https://github.com/2gi3/p6-back)
+    
+* ##### Front-End protptype from Mock-Up:  https://2gi3.github.io/OhMyFood/
+    * [repository](https://github.com/2gi3/OhMyFood)
 
  * ##### Front End Skills: :iphone: :computer:
     *  HTML, CSS, JavaScript, React.js, SCSS, Bootstrap.
