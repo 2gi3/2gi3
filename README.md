@@ -19,7 +19,7 @@ I'm Giuseppe, a Full Stack Web Developer based in London, <br />
     *  Node.js, Express.js, Axios, Mongo DB, MySQL.
     
 
-* I’m currently learning Jest/TDD :books:
+* I’m currently learning Next.js :books:
 
 * ##### How to reach me:
     *  [gippolito@hotmail.co.uk](gippolito@hotmail.co.uk)
