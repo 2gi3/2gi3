@@ -12,14 +12,14 @@ I'm Giuseppe, a Full Stack Web Developer based in London, <br />
     * [repository](https://github.com/2gi3/OhMyFood)
 
  * ##### Front End Skills: :iphone: :computer:
-    *  HTML, CSS, JavaScript, React.js, SCSS, Bootstrap.
+    *  JavaScript, React.js, Next.js, CSS/SCSS, Bootstrap, HTML.
               
               
  * ##### Back End Skills: :exploding_head:
     *  Node.js, Express.js, Axios, Mongo DB, MySQL.
     
 
-* I’m currently learning Next.js :books:
+* I’m currently learning TypeScript :books:
 
 * ##### How to reach me:
     *  [gippolito@hotmail.co.uk](gippolito@hotmail.co.uk)
