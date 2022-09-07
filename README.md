@@ -5,7 +5,7 @@ I'm Giuseppe, a Full Stack Web Developer based in London, <br />
  
  * ##### My latest Full-Stack solo project ( the Back-End is a work in progress ), draft: https://thinkthaithai.vercel.app/
     *  Next.js, SCSS, Node.js, MongoDB, Serverless functions.
-    * [repository](https://github.com/2gi3/OhMyFood)
+    * [repository](https://github.com/2gi3/thinkthaithai)
  
  * ##### Solo Full-Stack, deployed project: https://piiquante.netlify.app
     *  MERN-Stack, Netlify, Heroku, Cloudinary.
