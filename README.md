@@ -18,7 +18,7 @@ I'm Giuseppe, a Full Stack Web Developer based in London, <br />
               
               
  * ##### Back End Skills: :exploding_head:
-    *  Node.js, Express.js, Axios, MongoDB, MySQL.
+    *  Node.js, Express.js, Axios, MongoDB, SQL.
     
 
 * I’m currently learning TypeScript :books:
