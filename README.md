@@ -3,8 +3,8 @@
 I'm Giuseppe, a Full Stack Web Developer based in London, <br />
  always looking for new challenges, constructive feedbacks and better ways to do things! :bulb:
  
- * ##### My latest Full-Stack solo project ( the Back-End is a work in progress ), draft: https://thinkthaithai.com
-    *  Next.js, SCSS, Node.js, MongoDB, Serverless functions.
+ * ##### My latest Full-Stack solo project: https://thinkthaithai.com
+    *  Next.js, SCSS, Node.js,JWT, Bcrypt, Static Site Generation, Serverless functions, Mongoose, Cloudinary, Vercel.
     * [repository](https://github.com/2gi3/thinkthaithai)
  
  * ##### Solo Full-Stack, deployed project: https://piiquante.netlify.app
