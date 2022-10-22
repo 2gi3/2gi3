@@ -14,14 +14,14 @@ I'm Giuseppe, a Full Stack Web Developer based in London, <br />
     
 
  * ##### Front End Skills: :iphone: :computer:
-    *  JavaScript, React.js, Next.js, CSS/SCSS, Bootstrap, HTML, Jest.
+    *  JavaScript, React.js, Next.js, CSS/SCSS, Bootstrap, HTML, TypeScript.
               
               
  * ##### Back End Skills: :exploding_head:
     *  Node.js, Express.js, Axios, MongoDB, SQL.
     
 
-* I’m currently learning TypeScript :books:
+* I’m currently learning: TDD :books:
 
 * ##### How to reach me:
     *  [gippolito@hotmail.co.uk](gippolito@hotmail.co.uk)
