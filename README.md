@@ -3,15 +3,15 @@
 I'm Giuseppe, a Full Stack Web Developer based in London, <br />
  always looking for new challenges, constructive feedbacks and better ways to do things! :bulb:
  
+  * ##### Solo Full-Stack, deployed project: https://piiquante.netlify.app
+    *  React, Typescript, Jest, StyledComponents.
+    *  [Front-End repository](https://github.com/2gi3/p6-front-react)
+    *  [Back-End repository](https://github.com/2gi3/p6-back)
+ 
  * ##### My latest Full-Stack solo project: https://thinkthaithai.com
     *  Next.js, SCSS, Node.js, JWT, Bcrypt, Static Site Generation, Serverless functions, Mongoose, Cloudinary, Vercel.
     * [repository](https://github.com/2gi3/thinkthaithai)
- 
- * ##### Solo Full-Stack, deployed project: https://piiquante.netlify.app
-    *  MERN-Stack, Netlify, Heroku, Cloudinary.
-    *  [Front-End repository](https://github.com/2gi3/p6-front-react)
-    *  [Back-End repository](https://github.com/2gi3/p6-back)
-    
+     
 
  * ##### Front End Skills: :iphone: :computer:
     *  JavaScript, React.js, Next.js, CSS/SCSS, Bootstrap, HTML, TypeScript.
