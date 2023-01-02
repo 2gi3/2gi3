@@ -8,7 +8,7 @@ I'm Giuseppe, a Full Stack Web Developer based in London, <br />
     *  [Front-End repository](https://github.com/2gi3/p6-front-react)
     *  [Back-End repository](https://github.com/2gi3/p6-back)
  
- * ##### My latest Full-Stack solo project: https://thinkthaithai.com
+ * ##### Solo Full-Stack project: https://thinkthaithai.com
     *  Next.js, SCSS, Node.js, JWT, Bcrypt, Static Site Generation, Serverless functions, Mongoose, Cloudinary, Vercel.
     * [repository](https://github.com/2gi3/thinkthaithai)
      
