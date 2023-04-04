@@ -5,7 +5,7 @@ I'm Giuseppe,<br />
  Have a look at my projects and if you would like to have a chat  <br />
  feel free to just [Book a Google Meet](https://calendly.com/gippolito/30min_call)
  
- #### Next.js, Typescript, D3.js, Tailwind : https://livexchange.netlify.app
+ #### Next.js, Typescript, D3.js, Tailwind, Cypress : https://livexchange.netlify.app
    * Data Visualisation Dashboard
       * SSR, SWR, Serverless function and useContext
       * [Code Repository](https://github.com/2gi3/livexchange)
