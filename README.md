@@ -32,7 +32,7 @@ I'm Giuseppe,<br />
 
 
 * ##### How to reach me:
-    *  [Book a Videocall (Google Meet)](https://calendly.com/gippolito/30min_call)
+    *  [Book a Videocall (Google Meet)](https://calendly.com/gippolito/45min_call)
     *  [gippolito@hotmail.co.uk](gippolito@hotmail.co.uk)
     *  [WhatsApp](https://wa.me/+447795961318)
     *  www.linkedin.com/in/giuseppe-ippolito-g23i
