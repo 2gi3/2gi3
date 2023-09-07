@@ -3,7 +3,7 @@ I'm Giuseppe,<br />
 ### Full-Stack TypeScript Developer,  <br />
  I have been using React and Next.js since 2021. <br />
  Have a look at my projects and if you would like to have a chat  <br />
- feel free to just [Book a Google Meet](https://calendly.com/gippolito/30min_call)
+ feel free to just [Book a Google Meet](https://calendly.com/gippolito/45min_call?month=2023-09)
  
  #### Next.js, Typescript, D3.js, Tailwind, Cypress : https://livexchange.netlify.app
    * Data Visualisation Dashboard
